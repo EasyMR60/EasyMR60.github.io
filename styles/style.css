@@ -12,7 +12,6 @@ body{
   background-repeat: no-repeat;
 }
 h1{
-	padding-right: 30px;
 	text-align:right;
 }
 
@@ -49,8 +48,8 @@ body
 {
   display: block;
   position: relative;
-  top: 50px;
-  left: 50px;
+  margin-top: 50px;
+  margin-left: 50px;
   
   z-index: 1;
   
@@ -160,7 +159,7 @@ body
   width: 300px;
   margin: -100px 0 0 -50px;
   padding: 50px;
-  padding-top: 125px;
+  padding-top: 0px;
   
   background: #ededed;
   list-style-type: none;

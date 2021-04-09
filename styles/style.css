@@ -4,16 +4,14 @@ body{
 }
 
 .masthead {
-  height: 85vh;
+  height: 100vh;
   min-height: 500px;
   background-image: url('../assets/images/headerimg.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
-h1{
-	text-align:right;
-}
+
 
 
 
@@ -48,7 +46,7 @@ body
 {
   display: block;
   position: relative;
-  margin-top: 50px;
+  top: 50px;
   margin-left: 50px;
   
   z-index: 1;
@@ -159,7 +157,7 @@ body
   width: 300px;
   margin: -100px 0 0 -50px;
   padding: 50px;
-  padding-top: 0px;
+  padding-top: 125px;
   
   background: #ededed;
   list-style-type: none;

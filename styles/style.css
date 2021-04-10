@@ -34,6 +34,7 @@ body{
 a{
 	color:white;
 }
+}
 h2{
 	margin-bottom: 5px !important;
 	margin-top: 5px!important;
@@ -44,4 +45,23 @@ h3{
 
 h1, h2, h3{
 	color: red;	
+}
+#footer1, #footer2 {
+	padding:10px;
+	padding-left:20px;
+	padding-right:20px;
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+	background-color: rgba(200,0,0,0.5);
+	border-style: solid;	
+	border-bottom-style: none;	
+	border-color: white;
+}
+#footer1{
+	border-right-style: none;	
+}
+#footer2{
+	text-align: right;
+	border-left-style: none;	
 }

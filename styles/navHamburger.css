@@ -152,3 +152,10 @@ body
 {
   transform: none;
 }
+.hometext{
+	background-color: rgba(200,0,0,0.5);
+	padding: 20px;
+	margin-bottom: 50px;
+	border-style: solid;	
+	border-color: white;
+}

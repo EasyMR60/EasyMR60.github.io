@@ -32,7 +32,7 @@ body{
 	color: white;
 }
 a{
-	color:white;
+	color:black;
 }
 }
 h2{
@@ -51,12 +51,12 @@ h1, h2, h3{
 	padding-left:20px;
 	padding-right:20px;
     float: left;
-    width: 50%;
+    width: 50%;	
     box-sizing: border-box;
-	background-color: rgba(200,0,0,0.5);
+	background-color: white;
 	border-style: solid;	
 	border-bottom-style: none;	
-	border-color: white;
+	border-color: red;
 }
 #footer1{
 	border-right-style: none;	
@@ -64,4 +64,7 @@ h1, h2, h3{
 #footer2{
 	text-align: right;
 	border-left-style: none;	
+}
+p{
+	color: black;
 }

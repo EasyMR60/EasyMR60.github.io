@@ -54,9 +54,8 @@ h1, h2, h3{
 	background-color: white;
 	border-style: solid;	
 	border-bottom-style: none;	
-	border-left-style: none;	
-	border-right-style: none;	
 	border-color: red;
+	border-width: 6px;
 }
 #footer1{
 	border-right-style: none;	

@@ -50,6 +50,7 @@ h1, h2, h3{
 	padding-right:70px;
     float: left;
     width: 50%;	
+    height: 100%;
     box-sizing: border-box;
 	background-color: white;
 	border-style: solid;	

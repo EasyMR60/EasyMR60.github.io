@@ -50,7 +50,6 @@ h1, h2, h3{
 	padding-right:70px;
     float: left;
     width: 50%;	
-    height: 100%;
     box-sizing: border-box;
 	background-color: white;
 	border-style: solid;	
@@ -60,6 +59,7 @@ h1, h2, h3{
 }
 #footer1{
 	border-right-style: none;	
+	height: 100%;
 }
 #footer2{
 	text-align: right;
@@ -75,3 +75,5 @@ p{
 footer{
 	background-color: white !important;
 }
+#footer-div{
+	background-color: white !important;

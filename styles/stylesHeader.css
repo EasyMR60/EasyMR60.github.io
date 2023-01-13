@@ -1,0 +1,39 @@
+.header{
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+h1{
+    position: relative;
+    top: 33%;
+    color:white;
+    font-size: 5vh;
+}
+.right{
+    width: 33%;
+    text-align: center;
+}
+.middle{
+    width: 34%;
+    align-items: center;
+    text-align: center;
+    display:block
+}
+.left{
+    width: 33%;
+}
+.nav{
+    font-size: 2vh;
+    height: 100%;
+    text-align: right;
+    padding-right: 2%;
+    color: black;
+    background-image: linear-gradient(to right, black 0%, white 80%);
+    padding-bottom: 3vh;
+    padding-top: 3vh;
+}
+.NavTags{
+    position:relative;
+    font-size: 2vh;
+    top: 32%;
+}

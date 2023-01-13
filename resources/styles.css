@@ -80,7 +80,7 @@ h1{
 .LeftFooter{
     width: 33%;
     font-size: 2vh;
-    padding-left: 50px;
+    padding-left: 3vh;
 }
 .MiddleFooter{
     width: 34%;
@@ -96,5 +96,5 @@ h1{
     width: 33%;
     font-size: 2vh;
     text-align: right;
-    padding-right: 50px;
+    padding-right: 3vh;
 }

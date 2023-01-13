@@ -27,7 +27,6 @@ h1{
     height: 100%;
     text-align: right;
     padding-right: 2%;
-    color: black;
     background-image: linear-gradient(to right, black 0%, white 80%);
     padding-bottom: 3vh;
     padding-top: 3vh;
@@ -36,4 +35,15 @@ h1{
     position:relative;
     font-size: 2vh;
     top: 32%;
+}
+.nav, a{
+    color: black;
+    text-decoration: none;
+}
+.Activ{
+    position:relative;
+    font-size: 2vh;
+    top: 32%;
+    text-decoration: underline;
+    font-weight: bold;
 }

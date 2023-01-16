@@ -4,13 +4,10 @@ body{
 }
 
 .wrapper{
-    margin-top: 49vh;
-    height:100vh;
     background-color: black;
+    position: relative;
     width: 80%;
-    position: fixed;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    margin-left: 10%;
     border-left: 0.1vh solid white;
     border-right: 0.1vh solid white;
 }

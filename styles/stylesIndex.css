@@ -1,0 +1,67 @@
+#FullIndex {
+    height: 28vh;
+    margin: 5vh;
+}
+
+.IndexImg {
+    width: auto;
+    Height: 100%;
+}
+
+#LeftIndexImgDiv {
+    border: 0.1vh solid white;
+    width: 29%;
+    height: 100%;
+    float: left;
+}
+
+#RightIndexTextDiv {
+    border: 0.1vh solid white;
+    width: 70%;
+    height: 100%;
+    float: right;
+}
+
+#LeftIndexTextDiv {
+    border: 0.1vh solid white;
+    width: 70%;
+    height: 100%;
+    float: left;
+}
+
+#RightIndexImgDiv {
+    border: 0.1vh solid white;
+    width: 29%;
+    height: 100%;
+    float: right;
+}
+
+#TopIndex {
+    height: 100%;
+}
+
+#BottomIndex {
+    margin-top: 2vh;
+    height: 100%;
+
+}
+
+.IndexImg {
+    display: block;
+    margin-left: auto;
+    margin-bottom: auto;
+}
+
+.IndexText {
+    margin-top: 1vh;
+    padding-left: 3vh;
+    padding-right: 3vh;
+}
+
+h2 {
+    margin-bottom: 0%;
+    padding-left: 3vh;
+    padding-right: 3vh;
+    font-size: 3vh;
+    color: white;
+}

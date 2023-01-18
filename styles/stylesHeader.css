@@ -6,6 +6,7 @@
 h1{
     position: relative;
     top: 33%;
+    text-align: center;
     color:white;
     font-size: 5vh;
 }

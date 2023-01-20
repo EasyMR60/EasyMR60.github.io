@@ -1,46 +1,52 @@
 #FullIndex {
-    height: 28vh;
-    margin: 5vh;
+    height: auto;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
 }
 
 .IndexImg {
     width: auto;
-    Height: 100%;
+    Height: 30vh;
 }
 
 #LeftIndexImgDiv {
+    margin-right:1vh;
     border: 0.1vh solid white;
-    width: 29%;
+    width: auto;
     height: 100%;
-    float: left;
+    flex: 1;
 }
 
 #RightIndexTextDiv {
     border: 0.1vh solid white;
-    width: 70%;
-    height: 100%;
-    float: right;
+    width: auto;
+    height: auto;
 }
 
 #LeftIndexTextDiv {
     border: 0.1vh solid white;
-    width: 70%;
-    height: 100%;
-    float: left;
+    width: auto;
+    height: auto;
+    flex: 1;
 }
 
 #RightIndexImgDiv {
+    margin-left:1vh;
     border: 0.1vh solid white;
-    width: 29%;
+    width: auto;
     height: 100%;
-    float: right;
 }
 
 #TopIndex {
+    display:flex;
     height: 100%;
 }
 
 #BottomIndex {
+    display: flex;
     margin-top: 1vh;
     height: 100%;
 

@@ -11,10 +11,7 @@ p {
 .wrapper {
     background-color: black;
     position: relative;
-    width: 80%;
-    margin-left: 10%;
-    border-left: 0.1vh solid white;
-    border-right: 0.1vh solid white;
+    width: 100%;
 }
 
 .responsive {
@@ -24,4 +21,8 @@ p {
 
 .body {
     height: auto;
+}
+
+.GreenFont{
+    color: greenyellow;
 }

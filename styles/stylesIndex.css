@@ -14,20 +14,21 @@
 
 #LeftIndexImgDiv {
     margin-right:1vh;
-    border: 0.1vh solid white;
     width: auto;
     height: 100%;
     flex: 1;
 }
 
 #RightIndexTextDiv {
-    border: 0.1vh solid white;
+    display: flex;
+    align-items: center;
     width: auto;
     height: auto;
 }
 
 #LeftIndexTextDiv {
-    border: 0.1vh solid white;
+    display: flex;
+    align-items: center;
     width: auto;
     height: auto;
     flex: 1;
@@ -35,7 +36,6 @@
 
 #RightIndexImgDiv {
     margin-left:1vh;
-    border: 0.1vh solid white;
     width: auto;
     height: 100%;
 }
@@ -59,7 +59,6 @@
 }
 
 .IndexText {
-    margin-top: 1vh;
     padding-left: 3vh;
     padding-right: 3vh;
 }
@@ -70,4 +69,7 @@ h2 {
     padding-right: 3vh;
     font-size: 3vh;
     color: white;
+}
+.h2{
+    font-size: 3vh;
 }

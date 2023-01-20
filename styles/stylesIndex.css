@@ -64,12 +64,15 @@
 }
 
 h2 {
-    margin-bottom: 0%;
+    text-align: center;
+    margin-bottom: 5vh;
     padding-left: 3vh;
     padding-right: 3vh;
     font-size: 3vh;
     color: white;
 }
+
 .h2{
     font-size: 3vh;
+
 }

@@ -26,3 +26,7 @@ p {
 .GreenFont{
     color: greenyellow;
 }
+a:hover {
+    text-shadow: -.25px -.25px 0 black,
+    .25px .25px black;
+}
